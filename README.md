@@ -1,4 +1,4 @@
-# population_extinction
+# 대한민국 인구소멸 분석
 Korea Population Extinction
 
 ## 프로젝트 개요
