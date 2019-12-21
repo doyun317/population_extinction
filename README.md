@@ -5,4 +5,4 @@ Korea Population Extinction
 ![news](./image/news.png)
 
 ## 인구데이터
-![data](./image/data.png)
+![data](./image/data.PNG)
