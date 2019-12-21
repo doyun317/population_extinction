@@ -6,3 +6,6 @@ Korea Population Extinction
 
 ## 인구데이터
 ![data](./image/data.PNG)
+
+## 소멸위험지수
+![param](./image/definition.png)
